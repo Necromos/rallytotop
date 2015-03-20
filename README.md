@@ -23,4 +23,4 @@ To be announced
 * Organizer profile
 
 ##License
-`BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](./by-nc-nd.md)
+`BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-nc-sa.markdown)
