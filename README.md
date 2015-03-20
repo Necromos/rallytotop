@@ -17,7 +17,10 @@ To be announced
 To be announced
 
 ##TO DO list
-* TO DO list
+* Authentication
+* Events
+* User profile
+* Organizer profile
 
 ##License
-To be announced
+`BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](./by-nc-nd.md)
